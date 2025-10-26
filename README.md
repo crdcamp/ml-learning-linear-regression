@@ -19,3 +19,5 @@ The commit messages are a bit messy, but don't worry... I'm working on that as w
 Essentially, I've done one of the most difficult lessons to start. After this foundation is complete, I will apply much more precise ML applications before I move on to neural networks.
 
 My goodness... What an overkill introduction to ML this has been.
+
+(I apologise for the AI numbered summary above. This will never happen again.)
